@@ -1,4 +1,4 @@
-# A script to only be used by the Quinticorns, in Cyberpatriot XI or higher.
+# A script to only be used by the Quinticorns, in Cyberpatriot XI or higher. If you use this script for Cyber Patriot, and your team is not the Quinticorns, you are breaking the rules... So don't...
 echo "Starting Script"
 
 # Enabling Firewall
